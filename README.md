@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiddharthR07
+- 👋 Hi, I’m @Siddharth_07
 - 👀 I’m interested in Ai Technologies
 - 🌱 I’m currently learning Artificial Intelligence & Data Science
 - 💞️ I’m looking to collaborate on Many Intern Projects
